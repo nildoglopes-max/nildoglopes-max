@@ -2,7 +2,7 @@
 
 > Desenvolvedor — construindo soluções web e mantendo um portfólio de projetos pessoais.
 
-Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios e automações avançadas que resolvem problemas reais. Gosto de aprender novas ferramentas avancadas no dia a dia
+Olá! Sou desenvolvedor com foco em criar sites, aplicativos e sistemas avançadas que resolvem problemas reais. Gosto de aprender novas ferramentas avancadas no dia a dia
 
 ---
 
