@@ -2,12 +2,12 @@
 
 > Desenvolvedor — construindo soluções web e mantendo um portfólio de projetos pessoais.
 
-Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios e automações simples que resolvem problemas do dia a dia. Gosto de aprender novas ferramentas e publicar projetos Open Source.
+Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios e automações avançadas que resolvem problemas reais. Gosto de aprender novas ferramentas avancadas no dia a dia
 
 ---
 
 ## 🚀 Destaques
-- Desenvolvedor full‑stack com foco em projetos web e portfólios.
+- Desenvolvedor full‑stack com foco em saas b2b e aplicativos .
 - Público ativo no GitHub com projetos pessoais e templates.
 - Interesse em soluções práticas e experiências para desenvolvedores.
 
@@ -15,8 +15,8 @@ Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios
 
 ## 🛠️ Principais skills
 - HTML · JavaScript · CSS  
-- Templates/Jekyll · Portfólios estáticos  
-  ( React, Node.js, Python, Go, etc.)
+- Templates/Jekyll · aplicativos e saas multi tenant 
+  ( React, Node.js, Python, kotlin, etc.)
 
 ---
 
@@ -28,13 +28,13 @@ Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios
 ---
 
 ## 🌱 desenvolvendo e aprendendo
- frameworks modernos, backend, TypeScript, automações com GitHub Actions, etc.)
+ frameworks modernos, backend, TypeScript,kotlin, automações com GitHub Actions, etc.)
 
 ---
 
 ## 🤝 Aberto a
 - Colaborações em projetos Open Source
-- Projetos freelance / oportunidades /“aberto a trabalho clt”)
+- Projetos freelance / oportunidades /“aberto a trabalho cl pleno a senior”)
 
 ---
 
@@ -45,8 +45,9 @@ Olá! Sou desenvolvedor baseado em Goiânia com foco em criar sites, portfólios
 ---
 
 ## 📊 GitHub
-![GitHub mais de 50 commits 
+![GitHub mais de 100 commits 
 
 ---
 
 Obrigado por passar por aqui 
+segue no instagram @nyloxtech
