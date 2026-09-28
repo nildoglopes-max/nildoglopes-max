@@ -23,7 +23,8 @@ Olá! Sou desenvolvedor com foco em criar sites, aplicativos e sistemas avançad
 ## 🔭 Projetos em destaque
 - **nyloxtech** — Portfólio pessoal / site. https://portifolio-new-pro.vercel.app 
 - **indicaNet** — Projeto de inicaçcao / site https://indicanet.vercel.app  
-- **mentoria** — projeto plataforma de ebooks / https://mentoria-pdf.vercel.app
+- **saas gestao financeiro** — plataforma de gestao financeira / https://gestao.finaceira.nyloxtech.com.br
+- **nylox studio** -studio crie sites em tempo real, edite e publique / www.nyloxtech.com.br
 
 ---
 
